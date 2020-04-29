@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: each.bean.test
+---
+testFramework: spock
+sourceLanguage: groovy

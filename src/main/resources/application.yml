@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: each-bean-test
+
+---
+
+my:
+  beans:
+    one:
+      message: "great"
+    two:
+      message: "good"
